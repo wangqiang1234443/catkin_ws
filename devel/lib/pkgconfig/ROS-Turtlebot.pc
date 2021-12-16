@@ -1,0 +1,8 @@
+prefix=/home/wangqiang/catkin_ws/devel
+
+Name: ROS-Turtlebot
+Description: Description of ROS-Turtlebot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

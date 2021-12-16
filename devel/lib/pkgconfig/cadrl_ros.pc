@@ -1,0 +1,8 @@
+prefix=/home/wangqiang/catkin_ws/devel
+
+Name: cadrl_ros
+Description: Description of cadrl_ros
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
